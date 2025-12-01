@@ -1,0 +1,3 @@
+[submodule "MathInNN/cs229-2018"]
+	path = MathInNN/cs229-2018
+	url = https://github.com/maxim5/cs229-2018-autumn.git
